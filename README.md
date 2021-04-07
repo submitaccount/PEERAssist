@@ -77,3 +77,9 @@ Similarly keeping sentence operator  **SENT**op = 10 allowed **N**sent (maximum 
 **equipartition strategy** : We try to group items in the given input such that every group has approximately same number of items , and number of groups does not exceed a certain value.
 
 ***
+
+code references & help :
+[1] Tensorflow-Keras : https://www.tensorflow.org/api_docs/python/tf/keras
+[2] Intent Recognition with BERT using Keras and TensorFlow 2 in Python | Text Classification Tutorial : https://youtu.be/gE-95nFF4Cc
+
+***
