@@ -1,5 +1,5 @@
 # PRAssist
-Experimental Code of research paper PRAssist (under review)
+Experimental Code of Research Paper PRAssist (under review)
 
 ## About Raw Data
 
@@ -78,8 +78,8 @@ Similarly keeping sentence operator  **SENT**op = 10 allowed **N**sent (maximum 
 
 ***
 
-code references & help :
-[1] Tensorflow-Keras : https://www.tensorflow.org/api_docs/python/tf/keras
+code references & help :<br>
+[1] Tensorflow-Keras : https://www.tensorflow.org/api_docs/python/tf/keras <br>
 [2] Intent Recognition with BERT using Keras and TensorFlow 2 in Python | Text Classification Tutorial : https://youtu.be/gE-95nFF4Cc
 
 ***
