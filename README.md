@@ -8,7 +8,7 @@ Folder ```./raw``` contains compressed data files , which upon extraction will b
 
 # How to run it ... ?
 
-_We recommend using google colab to run it. (provided how to run on goggle colab plateform , running in terminal will be similar)_
+_We recommend using google colab to run it. <br>    (provided how to run on google colab plateform , running in terminal will be similar)_
 ***
 
 _Step 1_ :  **Download master-branch** of this repository [ zip file size : ~ 60 Mb ] & Go to **main folder** of it.
